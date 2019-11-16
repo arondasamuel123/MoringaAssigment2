@@ -1,2 +1,2 @@
 # MoringaAssigment2
-Moringa interview 
+Assignment 2: Replicate web page provided. Delani Studios
